@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    background: rgb(230, 230, 230);
+}
+
+.main-header{
+    color: #fff;
+    background-color: rgb(255, 166, 0);
+    padding: 20px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+.note-div{
+    background-color: #fff;
+    width: 240px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px #ccc;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+}
+
+.note-div h3{
+    background-color: transparent;
+}
+
+.note-div p{
+    margin-top: 5px;
+    background-color: transparent;
+}
+
+footer{
+    position: absolute;
+    text-align: center;
+    margin: 0 auto 0 auto;
+    height: 2rem;
+    background-color: transparent;
+    width: 100%;
+    bottom: 0;
+}
+
+footer h4{
+    color: rgb(255, 166, 0);
+    font-weight: 500;
+}
