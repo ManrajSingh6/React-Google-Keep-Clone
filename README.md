@@ -1,4 +1,4 @@
-# my-app
+# Basic Google Keep Clone using React
 
 ##Creating a Very Basic Google Keep Clone using React
 
